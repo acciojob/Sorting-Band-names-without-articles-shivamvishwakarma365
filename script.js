@@ -1,5 +1,3 @@
-//your code here
-
 const bandNames = [
   'The Rolling Stones',
   'Pink Floyd',
